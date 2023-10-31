@@ -13,7 +13,7 @@ This online platform makes it super easy to book movie tickets. It's designed to
 If you want to work on this project , clone this repo
 
 ```bash
-git clone "https://github.com/swatii7/capstone-backend-project.git"
+git clone "https://github.com/Man7398/bookmyshowbakend"
 
 ```
 
@@ -45,8 +45,8 @@ In the backend you should connect with database server.
 ## API Reference
 
 Base URL
-```https
-https://capstone-project-1wft.onrender.com
+```
+https://bms-backend-man.onrender.com
 ```
 
 Booking
@@ -79,14 +79,14 @@ Here is the links of deployed project
 - For Frontend
 
 ```https
-https://bookmyshow11.netlify.app/
+https://https://bookmyshowbyman.netlify.app/
 
 ```
 
 - For Backend
 
 ```https
-https://capstone-project-1wft.onrender.com/api/bookings
+https://bms-backend-man.onrender.com/api/bookings
 
 ```
 
@@ -100,7 +100,7 @@ By clicking on above links , you can see the project
 
 
 ```https
-[bookmyshowApp](https://bookmyshow11.netlify.app/)
+[bookmyshowApp](https://bookmyshowbyman.netlify.app/)
 
 ```
 2. select the movie you would like to watch.
@@ -145,7 +145,7 @@ or if it is on live set production
 
 `REACT_APP_API_LOCAL_PATH = http://localhost:3000`
 
-`REACT_APP_API_LIVE_PATH = https://capstone-project-1wft.onrender.com`
+`REACT_APP_API_LIVE_PATH = https://bms-backend-man.onrender.com`
 
 ## Tech Stack
 
