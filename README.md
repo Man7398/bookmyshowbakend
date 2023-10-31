@@ -1,5 +1,5 @@
 
-# Hi, I'm Swati Chaudhary! 👋
+# Hi, I'm Manvendra Singh!👋
 
 I am Full stack Intern at Almabetter and this is my second project, on Book My Show
 # Book MyShow
