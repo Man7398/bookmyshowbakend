@@ -79,7 +79,7 @@ Here is the links of deployed project
 - For Frontend
 
 ```https
-https://https://bookmyshowbyman.netlify.app/
+https://backend-bookmyshow.netlify.app/
 
 ```
 
@@ -100,7 +100,7 @@ By clicking on above links , you can see the project
 
 
 ```https
-[bookmyshowApp](https://bookmyshowbyman.netlify.app/)
+[bookmyshowApp](https://backend-bookmyshow.netlify.app/)
 
 ```
 2. select the movie you would like to watch.
